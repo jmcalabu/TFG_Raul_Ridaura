@@ -2,10 +2,6 @@
 
 Proyecto desarrollado por Raúl para Trabajo de Fin de Grado (TFG) de la ETSII de València.
 
-# Proyecto de Control y Estructura con ESP32 y MATLAB
-
-Este proyecto integra el control de un sistema físico mediante un microcontrolador ESP32, código de control en MATLAB, y diseño mecánico en FreeCAD. Está pensado para automatizar un mecanismo o sistema que posiblemente interactúa con agua (por la presencia de una piscina en los planos) y motores.
-
 ## Estructura del repositorio
 
 ### Controlador
