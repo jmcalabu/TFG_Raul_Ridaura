@@ -1,6 +1,4 @@
-# TFG Raul Ridaura: Diseño, programación e implementación de robot móvil para análisis acústico
-
-Proyecto desarrollado por Raúl para Trabajo de Fin de Grado (TFG) de la ETSII de València.
+# Diseño, programación e implementación de robot móvil para análisis acústico
 
 ## Resumen
 
