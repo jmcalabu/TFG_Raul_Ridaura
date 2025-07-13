@@ -53,7 +53,7 @@ El proyecto abarca tanto el desarrollo mecánico y electrónico del robot como l
   - Estructura mecánica basada en los planos proporcionados
   - Elementos de conexión (puerto serie, cables, etc.)
 
-## Cómo usar
+## Cómo se usa
 
 1. Abrir y cargar `Control_esp32.ino` en el ESP32 desde el Arduino IDE.
 2. Ejecutar los scripts MATLAB en el orden necesario para enviar instrucciones al ESP32.
