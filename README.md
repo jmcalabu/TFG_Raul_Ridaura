@@ -1,6 +1,14 @@
-# TFG_Raul_Ridaura
+# TFG Raul Ridaura: Diseño, programación e implementación de robot móvil para análisis acústico
 
 Proyecto desarrollado por Raúl para Trabajo de Fin de Grado (TFG) de la ETSII de València.
+
+## Resumen
+
+La medición de ondas sonoras es una herramienta muy útil en diversos ámbitos, desde la caracterización acústica de habitaciones hasta aplicaciones industriales como la detección temprana de fallos en maquinaria, a través de la identificación de sonidos anómalos. Sin embargo, esta tarea puede resultar laboriosa y poco eficiente cuando se realiza de forma manual, especialmente en espacios amplios que requieren un muestreo exhaustivo.
+
+Con el fin de automatizar este proceso y hacerlo más eficiente, el presente Trabajo de Fin de Grado tiene como objetivo principal el diseño, fabricación e implementación de un prototipo de robot móvil autónomo, capaz de desplazarse por una zona determinada mientras realiza mediciones de ondas sonoras. El sistema está concebido para operar de manera independiente una vez configurado, permitiendo así agilizar significativamente la toma de datos acústicos y reduciendo la necesidad de intervención humana.
+
+El proyecto abarca tanto el desarrollo mecánico y electrónico del robot como la implementación del software de control, diseñado en entorno MATLAB, desde donde se definen los puntos de medición y se gestiona el movimiento del robot. Finalmente, se llevarán a cabo una serie de pruebas experimentales para verificar el correcto funcionamiento del prototipo y evaluar su capacidad para cumplir con los objetivos propuestos.
 
 ## Estructura del repositorio
 
