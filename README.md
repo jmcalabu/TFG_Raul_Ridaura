@@ -62,9 +62,11 @@ El proyecto abarca tanto el desarrollo mecánico y electrónico del robot como l
 
 ## Tutores: Instituto Universitario de Matemática Pura y Aplicada (UPV)
 
-Jose M. Calabuig Rodríguez
-Lluis M. Garcia Raffi
-Vicent Romero Gaarcia
+Jose M. Calabuig Rodríguez (jmcalabu)
+ 
+Lluis M. Garcia Raffi (lmgarcia)
+
+Vicent Romero Gaarcia (virogar1)
 
 
 
